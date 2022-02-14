@@ -1,0 +1,13 @@
+MIDlet-1: holaMidlet, , holamidlet.holaMidlet
+MIDlet-2: VisualMIDlet, , holamidlet.VisualMIDlet
+MIDlet-3: LifeCycleMidlet, , Lifecycle.LifeCycleMidlet
+MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
+MIDlet-5: FormTextFieldMidlet, , formtextfield.FormTextFieldMidlet
+MIDlet-6: GuessnumbergameMidlet, , Guessnumbergame.GuessnumbergameMidlet
+MIDlet-Jar-Size: 8945
+MIDlet-Jar-URL: jme.jar
+MIDlet-Name: jme
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
